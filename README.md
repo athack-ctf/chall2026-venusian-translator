@@ -1,4 +1,4 @@
-# Chall - Your Challenge Title
+# Chall - Venusian Translator
 
 > A brief description of the challenge
 
@@ -14,8 +14,7 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Boisghur Shishani
 
 ## Description
 
@@ -26,18 +25,7 @@ goals and the skills it aims to test in participants.
 
 ## Category(ies)
 
-- `pwn`
-- `re`
 - `web`
-- `stegano`
-- `env`
-- `crypto`
-- `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
-- `misc`
 
 ---
 
@@ -79,4 +67,5 @@ goals and the skills it aims to test in participants.
 
 - **[source/Dockerfile](source/Dockerfile)**: Needed for building a containerized image of the online challenge.
 - **[source/docker-compose.yml](source/docker-compose.yml)**: Needed for a configuration-free run of the online
+
   challenge
