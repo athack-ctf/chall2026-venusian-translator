@@ -1,10 +1,3 @@
-The description of your challenge as seen by participants in CTFd. Try to make it feel within the theme
-of the event...
+The Venusians have sent us a translator under the guise of furthering communication between our two planets, but perhaps there is an ulterior motive.
+Use the tool to decode their intercepted messages… or find out what they're really hiding.
 
----
-If your challenge is a multi-flag one (i.e., it consists of a sequence of sub-challenges each rewarded with
-its own flag), requiring a different description for each sub-challenge, then have your descriptions split as 
-done with this paragraph, and the next one.
-
----
-Obviously, for each sub-challenge, you should provide its flag value in [solution/FLAGS.md](solution/FLAGS.md).
