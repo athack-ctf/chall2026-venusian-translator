@@ -1,6 +1,7 @@
 # Chall - Venusian Translator
 
-> A brief description of the challenge
+> An SSTI challenge using Jinja2/flask. User-controlled input from either textarea is rendered unsafely via render_template_string.
+Goal: read flag.txt
 
 ## Challenge Type
 
@@ -69,3 +70,4 @@ goals and the skills it aims to test in participants.
 - **[source/docker-compose.yml](source/docker-compose.yml)**: Needed for a configuration-free run of the online
 
   challenge
+
