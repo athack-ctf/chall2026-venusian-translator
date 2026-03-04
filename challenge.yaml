@@ -58,7 +58,7 @@ extra:
   # We'll stick exclusively to logarithmic
   function: logarithmic
 
-# Challs will be invisible at first
-state: invisible
+# Challs will be hidden at first
+state: hidden
 
 version: "0.1"
