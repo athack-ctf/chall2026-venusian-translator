@@ -12,8 +12,9 @@ category: "Web"
 # DO NOT remove the vertical character "|" (aka pipe character)
 description: |
   The Venusians have sent us a translator under the guise of furthering communication between our two planets, but perhaps there is an ulterior motive.
+
   Use the tool to decode their intercepted messages… or find out what they're really hiding.
-  
+
   [Start your challenge instance](https://instancer.athackctf.com/chall2026-venusian-translator/create)
 
 # The field connection_info is used to provide a link, hostname, or instructions on how to connect to a challenge
