@@ -1,8 +1,0 @@
-services:
-  ssti-challenge:
-    build: .
-    ports:
-      - "8000:8000"
-    restart: "no"               
-    tty: true                   
-    stdin_open: true
