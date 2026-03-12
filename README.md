@@ -22,8 +22,7 @@ Goal: read flag.txt
 A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
 goals and the skills it aims to test in participants.
 
-**IMPORTANT:** This description will **NOT** be shared with participants.
-
 ## Category(ies)
 
 - `web`
+
